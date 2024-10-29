@@ -52,6 +52,7 @@ emote={
 [layer_names]
 
 2d_physics/layer_5="CollisionLayer"
+2d_physics/layer_6="HideRoofLayer"
 
 [rendering]
 
