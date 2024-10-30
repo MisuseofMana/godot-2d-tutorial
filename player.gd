@@ -34,7 +34,6 @@ func _physics_process(delta):
 	get_movement_input()
 	move_and_slide()
 
-
 func _on_animated_character_animation_finished():
 	if (animated_character.animation == 'emote'):
 		animated_character.play('idle')
